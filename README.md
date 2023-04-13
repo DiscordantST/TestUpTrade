@@ -1,0 +1,2 @@
+# TestUpTrade
+Menu Django
